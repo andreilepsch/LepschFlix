@@ -1,7 +1,7 @@
 import React from "react";
 import Logo from "../../assets/img/lepschflix.png";
 import "./Menu.css";
-import ButtonLink from "./components/ButtonLink";
+//import ButtonLink from "./components/ButtonLink";
 import Button from "./components/Button";
 
 function Menu() {
